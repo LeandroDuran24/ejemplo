@@ -43,7 +43,7 @@
             this.consultasToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(353, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(280, 24);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -75,7 +75,7 @@
             // peliculaToolStripMenuItem1
             // 
             this.peliculaToolStripMenuItem1.Name = "peliculaToolStripMenuItem1";
-            this.peliculaToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.peliculaToolStripMenuItem1.Size = new System.Drawing.Size(115, 22);
             this.peliculaToolStripMenuItem1.Text = "Pelicula";
             this.peliculaToolStripMenuItem1.Click += new System.EventHandler(this.peliculaToolStripMenuItem1_Click);
             // 
@@ -83,7 +83,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(353, 261);
+            this.ClientSize = new System.Drawing.Size(280, 113);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Menu";
